@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Sound Orbit Ring -->
+    <path
+        android:pathData="M54,26 C69.46,26 82,38.54 82,54 C82,69.46 69.46,82 54,82 C38.54,82 26,69.46 26,54 C26,38.54 38.54,26 54,26 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#4A6572"
+        android:fillColor="#00000000" />
+
+    <!-- Orbital Node 1: Amber Gold -->
+    <path
+        android:pathData="M54,26 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#F6AD55" />
+
+    <!-- Orbital Node 2: Cyan Studio Accent -->
+    <path
+        android:pathData="M82,54 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"
+        android:fillColor="#4FD1C5" />
+
+    <!-- Inner Sound Orbit Ring -->
+    <path
+        android:pathData="M54,34 C65.05,34 74,42.95 74,54 C74,65.05 65.05,74 54,74 C42.95,74 34,65.05 34,54 C34,42.95 42.95,34 54,34 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#718096"
+        android:fillColor="#00000000" />
+
+    <!-- Central Audio Studio Core: Disc & Frequency Bars -->
+    <path
+        android:pathData="M54,40 C61.73,40 68,46.27 68,54 C68,61.73 61.73,68 54,68 C46.27,68 40,61.73 40,54 C40,46.27 46.27,40 54,40 Z"
+        android:fillColor="#1A202C" />
+
+    <!-- Equalizer / Waveform studio bars in center -->
+    <path
+        android:pathData="M46,50 L46,58"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#F6AD55" />
+    <path
+        android:pathData="M50,46 L50,62"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#FBD38D" />
+    <path
+        android:pathData="M54,43 L54,65"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#FFFFFF" />
+    <path
+        android:pathData="M58,47 L58,61"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#4FD1C5" />
+    <path
+        android:pathData="M62,51 L62,57"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#63B3ED" />
+</vector>

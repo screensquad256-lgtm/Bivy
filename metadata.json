@@ -1,0 +1,6 @@
+{
+  "name": "Bivy",
+  "description": "Personal Audio Studio — Offline-first luxury music player, Audio Space Sound Orbit, Audio Lab DSP, and VibeMix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
